@@ -1,0 +1,124 @@
+.container{
+  margin-top: 3%;
+}
+.p-t-20{padding-top: 20px;}
+.dashboard_bar{
+  text-align: center;
+}
+.barhead{
+  margin-top: 15px;
+}
+.barinfo{
+  margin-top: 35px;
+}
+.desktop_bar_position{
+  opacity: unset !important;
+  border: 1px solid transparent;
+  background: transparent;
+}
+.desktop_bar_icon{
+  margin-left: 95%;
+}
+.setting_card{
+  padding: 1%;
+  width: 105%;
+}
+.create_bar:hover{
+  text-decoration: none;
+  color: unset;
+}
+.sidenav{
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  background-color: #1c2260;
+  top: 0;
+}
+.navbar {
+  background-color: #ddd;
+}
+#BarPosition, #ShowBar{
+  padding-left: 10px;
+}
+.action_link{
+  text-decoration: none !important;
+}
+#AnnouncementBarActive{
+  text-align: center;
+}
+#AnnouncementBarDemo{
+  display: inline-block;
+  color: white;
+}
+#AnnouncementBarAfter { color: white; }
+#AnnouncementBarBtn{
+  display: inline-block;
+}
+.BarMainDiv{
+  background: black;
+  text-align: center;
+  position: fixed;
+  top: 56px;
+  left: 240px;
+  right: 0;
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+.nav-button{
+  text-align: center;
+}
+
+.required:after {
+  content:" *";
+  color: red;
+}
+
+.background_image{
+  max-width: 150px;
+  max-height: 150px;
+  width: 150px;
+}
+.remove_image{
+  position: absolute;
+  top: -14px;
+  font-size: 30px;
+  left: 140px;
+  cursor: pointer;
+}
+body{
+  /* font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica Neue,sans-serif!important; */
+  background-color: #7d7c7c0f!important;
+  font-weight: normal;
+}
+.template-btn{
+  font-size: 16px;
+  font-weight: 600;
+}
+.bgh{
+  padding-right: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+.vw-btn{
+  background: gainsboro;
+  padding: 4px 20px;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 8px;
+}
+.vw-btn-border{border-radius: 10px;}
+.vw-btn-border1{border-radius: 30px;}
+.vw-btn-border2{border-top-left-radius: 20px;border-bottom-right-radius: 20px;}
+.vw-btn-border3{border-top-right-radius: 20px;border-bottom-left-radius: 20px;}
+.vw-btn-border4{border-top-right-radius: 20px;border-top-left-radius: 20px;}
+.vw-btn-border5{border-top-right-radius: 20px;border-bottom-left-radius: 20px;border-top-left-radius: 8px;border-bottom-right-radius: 8px;}
+.vw-btn-border6{border-top-left-radius: 20px;border-bottom-right-radius: 20px;border-top-right-radius: 8px;border-bottom-left-radius: 8px;}
+.colorStyle{
+  border: 1px solid gray;
+  height: 40px;
+  padding: 2px;
+  width: 26%;
+  margin-left: 11px;
+}
